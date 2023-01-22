@@ -280,4 +280,4 @@ body {
 ![output](/3.png)
 
 ## Result:
-
+The program for designing a simple calculator using JavaScript is executed successfully.
